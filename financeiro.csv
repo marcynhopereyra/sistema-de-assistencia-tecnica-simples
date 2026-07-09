@@ -1,0 +1,2 @@
+id_pagamento,id_os,nome_cliente,valor,forma_pagamento,status_pagamento,data_pagamento
+1,1,maria silva,20.0,Dinheiro,Pago,24/06/2026
